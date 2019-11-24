@@ -1,13 +1,13 @@
 # My resume website
 
-This file describes your project to the community. What's your cool website about? What makes it special?
+One of the assignments from COMP 484 class where I had to create a resume site with HTML & CSS. 
 
 ヽ(๏∀๏ )ﾉ
 
 ## ← index.html
 
-Where you'll write the content of your website. 
+Contents of the website. 
 
 ## ← styles.css
 
-CSS files add styling rules to your content
+Styling rules to the contents.
