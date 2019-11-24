@@ -1,2 +1,13 @@
-# COMP484-Resume-Site
-An assignment for my COMP 484 class, where I had to create a one page resume site using HTML &amp; CSS. 
+# My resume website
+
+This file describes your project to the community. What's your cool website about? What makes it special?
+
+ヽ(๏∀๏ )ﾉ
+
+## ← index.html
+
+Where you'll write the content of your website. 
+
+## ← styles.css
+
+CSS files add styling rules to your content

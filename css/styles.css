@@ -1,0 +1,136 @@
+/* Color Palette
+# - #B5E2FA color 1
+# - #0FA3B1 color 2
+# - #ECF8F8 color 3
+# - #AF7595 color 4
+*/
+
+/* Global styles */
+
+html,
+body {
+  border: 0;
+  margin: 0;
+}
+
+.content-wrap {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 200px;
+  overflow: hidden;
+}
+
+.work-experience {
+  background-color: #0FA3B1;
+  padding: 200px;
+}
+
+.education {
+  background-color: #AF7595;
+  padding: 200px;
+}
+
+.column-wide {
+  width: 70%;
+  float: right;
+  min-height: 225px;
+}
+
+.column-narrow {
+  width: 25%;
+  float: left;
+  padding-right: 3%;
+  min-height: 225px;
+}
+
+h1 {
+  font-family: "Source Sans Pro";
+  padding: 2px;
+  color: black;
+  font-size: 30px;
+  font-style: italic;
+  margin: 0;
+}
+h2 {
+  margin: 0;
+  font-family: "Source Sans Pro";
+  padding: 2px;
+  color: black;
+  font-size: 20px;
+}
+p {
+  font-family: "Source Sans Pro";
+  padding: 2px;
+  color: black;
+  font-size: 16px;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins";
+  font-size: 100%;
+  width: 100%;
+  margin: auto;
+  background: #ECF8F8;
+  line-height: 1.8;
+}
+
+/* Navigation */
+
+
+* Navigation bar ------------------------------------*/ nav {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navbar {
+  text-align: center;
+  position: fixed; /* set navbar to fixed position */
+  top: 0; /* position the navbar at the top of the page */
+  width: 100%;
+  background-color:black;
+}
+.navbar a {
+  padding: 10px;
+  display: inline-block;
+  width: 15%;
+  text-decoration: none; /* remove underline */
+  color: red; /* force link color to dimgray */
+  font-weight: bold;
+}
+
+/* Header & Footer */
+
+header {
+  background-color: #B5E2FA;
+  margin: 0;
+  border: 0;
+  text-align: center;
+}
+
+img {
+  width: 30%;
+  height: 20%;
+}
+.profile-img {
+  border-radius: 50%;
+}
+
+footer {
+  border-top: 4px solid red;
+  text-align: center;
+  font-size: 0.8em;
+  line-height: 4em;
+}
+
+.contact-info a {
+  padding: 10px;
+  display: inline-block;
+}
+
+
+.work-experience{
+  
+  
+  background: linear-gradient(rgba(255 ,100 , 105, 50), rgba(0, 67, 105, 0.5)), url(https://cdn.glitch.com/7c5a26a4-8dd4-46b4-a009-a75ac10e67f4%2Fcommunication-computer-keyboard-cord-163117.jpg?v=1571358383961) no-repeat;
+  
+}
